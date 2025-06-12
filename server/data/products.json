@@ -1,0 +1,109 @@
+[
+    {
+      "name": "HP Pavilion 15",
+      "price": 54999,
+      "description": "A reliable laptop with Intel i5, 8GB RAM, and 512GB SSD.",
+      "ratings": "4.2",
+      "images": [
+        { "imageName": "hp-front.jpg" }
+      ],
+      "category": "Laptops",
+      "seller": "HP Store",
+      "stock": 10,
+      "numberOfReviews": 1,
+      "reviews": [
+        {
+          "name": "Ravi Kumar",
+          "rating": "4",
+          "comment": "Good for daily tasks and light development work."
+        }
+      ]
+    },
+    {
+      "name": "Sony Wireless Headphones WH-1000XM4",
+      "price": 19999,
+      "description": "Noise cancelling over-ear headphones with 30 hours battery life.",
+      "ratings": "4.8",
+      "images": [
+        { "imageName": "sony-headphones.jpg" }
+      ],
+      "category": "HeadPhpones",
+      "seller": "Sony India",
+      "stock": 15,
+      "numberOfReviews": 2,
+      "reviews": [
+        {
+          "name": "Ayesha Khan",
+          "rating": "5",
+          "comment": "Best sound quality I've experienced!"
+        },
+        {
+          "name": "Rohit S",
+          "rating": "4",
+          "comment": "Very comfortable for long use."
+        }
+      ]
+    },
+    {
+      "name": "Apple iPhone 14",
+      "price": 79999,
+      "description": "Latest iPhone with A15 Bionic chip and improved camera.",
+      "ratings": "4.5",
+      "images": [
+        { "imageName": "iphone-front.jpg" },
+        { "imageName": "iphone-back.jpg" }
+      ],
+      "category": "Mobile Phones",
+      "seller": "Apple Authorized Store",
+      "stock": 8,
+      "numberOfReviews": 3,
+      "reviews": [
+        {
+          "name": "Neha Mehta",
+          "rating": "5",
+          "comment": "Smooth performance and great camera."
+        }
+      ]
+    },
+    {
+      "name": "The Alchemist by Paulo Coelho",
+      "price": 299,
+      "description": "An inspiring tale about self-discovery and following dreams.",
+      "ratings": "4.6",
+      "images": [
+        { "imageName": "alchemist-cover.jpg" }
+      ],
+      "category": "Books",
+      "seller": "Penguin Publishers",
+      "stock": 20,
+      "numberOfReviews": 4,
+      "reviews": [
+        {
+          "name": "Sahil Verma",
+          "rating": "5",
+          "comment": "A must-read for all age groups."
+        }
+      ]
+    },
+    {
+      "name": "Wild Protein Bar - Chocolate Almond",
+      "price": 50,
+      "description": "Healthy snack with 20g protein, no added sugar.",
+      "ratings": "4.0",
+      "images": [
+        { "imageName": "protein-bar.jpg" }
+      ],
+      "category": "Food",
+      "seller": "Wild Foods India",
+      "stock": 18,
+      "numberOfReviews": 2,
+      "reviews": [
+        {
+          "name": "Priya Singh",
+          "rating": "4",
+          "comment": "Tastes great and fills you up!"
+        }
+      ]
+    }
+  ]
+  
