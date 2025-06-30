@@ -5,7 +5,7 @@
       "description": "A reliable laptop with Intel i5, 8GB RAM, and 512GB SSD.",
       "ratings": "4.2",
       "images": [
-        { "imageName": "hp-front.jpg" }
+        { "imageName": "images/products/3.jpg" }
       ],
       "category": "Laptops",
       "seller": "HP Store",
@@ -25,7 +25,7 @@
       "description": "Noise cancelling over-ear headphones with 30 hours battery life.",
       "ratings": "4.8",
       "images": [
-        { "imageName": "sony-headphones.jpg" }
+        { "imageName": "/images/products/2.jpg" }
       ],
       "category": "HeadPhpones",
       "seller": "Sony India",
@@ -50,8 +50,8 @@
       "description": "Latest iPhone with A15 Bionic chip and improved camera.",
       "ratings": "4.5",
       "images": [
-        { "imageName": "iphone-front.jpg" },
-        { "imageName": "iphone-back.jpg" }
+        { "imageName": "/images/products/1.jpg" },
+        { "imageName": "/images/products/1.jpg" }
       ],
       "category": "Mobile Phones",
       "seller": "Apple Authorized Store",
@@ -71,7 +71,7 @@
       "description": "An inspiring tale about self-discovery and following dreams.",
       "ratings": "4.6",
       "images": [
-        { "imageName": "alchemist-cover.jpg" }
+        { "imageName": "/images/products/1.jpg" }
       ],
       "category": "Books",
       "seller": "Penguin Publishers",
@@ -91,7 +91,7 @@
       "description": "Healthy snack with 20g protein, no added sugar.",
       "ratings": "4.0",
       "images": [
-        { "imageName": "protein-bar.jpg" }
+        { "imageName": "/images/products/1.jpg" }
       ],
       "category": "Food",
       "seller": "Wild Foods India",
